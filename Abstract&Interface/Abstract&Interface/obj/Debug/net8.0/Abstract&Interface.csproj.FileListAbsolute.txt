@@ -1,0 +1,14 @@
+C:\Users\2894\source\repos\Abstract&Interface\Abstract&Interface\bin\Debug\net8.0\Abstract&Interface.exe
+C:\Users\2894\source\repos\Abstract&Interface\Abstract&Interface\bin\Debug\net8.0\Abstract&Interface.deps.json
+C:\Users\2894\source\repos\Abstract&Interface\Abstract&Interface\bin\Debug\net8.0\Abstract&Interface.runtimeconfig.json
+C:\Users\2894\source\repos\Abstract&Interface\Abstract&Interface\bin\Debug\net8.0\Abstract&Interface.dll
+C:\Users\2894\source\repos\Abstract&Interface\Abstract&Interface\bin\Debug\net8.0\Abstract&Interface.pdb
+C:\Users\2894\source\repos\Abstract&Interface\Abstract&Interface\obj\Debug\net8.0\Abstract&Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2894\source\repos\Abstract&Interface\Abstract&Interface\obj\Debug\net8.0\Abstract&Interface.AssemblyInfoInputs.cache
+C:\Users\2894\source\repos\Abstract&Interface\Abstract&Interface\obj\Debug\net8.0\Abstract&Interface.AssemblyInfo.cs
+C:\Users\2894\source\repos\Abstract&Interface\Abstract&Interface\obj\Debug\net8.0\Abstract&Interface.csproj.CoreCompileInputs.cache
+C:\Users\2894\source\repos\Abstract&Interface\Abstract&Interface\obj\Debug\net8.0\Abstract&Interface.dll
+C:\Users\2894\source\repos\Abstract&Interface\Abstract&Interface\obj\Debug\net8.0\refint\Abstract&Interface.dll
+C:\Users\2894\source\repos\Abstract&Interface\Abstract&Interface\obj\Debug\net8.0\Abstract&Interface.pdb
+C:\Users\2894\source\repos\Abstract&Interface\Abstract&Interface\obj\Debug\net8.0\Abstract&Interface.genruntimeconfig.cache
+C:\Users\2894\source\repos\Abstract&Interface\Abstract&Interface\obj\Debug\net8.0\ref\Abstract&Interface.dll

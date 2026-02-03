@@ -1,0 +1,14 @@
+C:\Users\2894\source\repos\User Input & Type Casting\User Input & Type Casting\bin\Debug\net8.0\User Input & Type Casting.exe
+C:\Users\2894\source\repos\User Input & Type Casting\User Input & Type Casting\bin\Debug\net8.0\User Input & Type Casting.deps.json
+C:\Users\2894\source\repos\User Input & Type Casting\User Input & Type Casting\bin\Debug\net8.0\User Input & Type Casting.runtimeconfig.json
+C:\Users\2894\source\repos\User Input & Type Casting\User Input & Type Casting\bin\Debug\net8.0\User Input & Type Casting.dll
+C:\Users\2894\source\repos\User Input & Type Casting\User Input & Type Casting\bin\Debug\net8.0\User Input & Type Casting.pdb
+C:\Users\2894\source\repos\User Input & Type Casting\User Input & Type Casting\obj\Debug\net8.0\User Input & Type Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2894\source\repos\User Input & Type Casting\User Input & Type Casting\obj\Debug\net8.0\User Input & Type Casting.AssemblyInfoInputs.cache
+C:\Users\2894\source\repos\User Input & Type Casting\User Input & Type Casting\obj\Debug\net8.0\User Input & Type Casting.AssemblyInfo.cs
+C:\Users\2894\source\repos\User Input & Type Casting\User Input & Type Casting\obj\Debug\net8.0\User Input & Type Casting.csproj.CoreCompileInputs.cache
+C:\Users\2894\source\repos\User Input & Type Casting\User Input & Type Casting\obj\Debug\net8.0\User Input & Type Casting.dll
+C:\Users\2894\source\repos\User Input & Type Casting\User Input & Type Casting\obj\Debug\net8.0\refint\User Input & Type Casting.dll
+C:\Users\2894\source\repos\User Input & Type Casting\User Input & Type Casting\obj\Debug\net8.0\User Input & Type Casting.pdb
+C:\Users\2894\source\repos\User Input & Type Casting\User Input & Type Casting\obj\Debug\net8.0\User Input & Type Casting.genruntimeconfig.cache
+C:\Users\2894\source\repos\User Input & Type Casting\User Input & Type Casting\obj\Debug\net8.0\ref\User Input & Type Casting.dll

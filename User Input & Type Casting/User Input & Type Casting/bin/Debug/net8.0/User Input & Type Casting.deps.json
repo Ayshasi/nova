@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "User Input & Type Casting/1.0.0": {
+        "runtime": {
+          "User Input & Type Casting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "User Input & Type Casting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
